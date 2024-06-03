@@ -20,7 +20,6 @@ hypr_package=(
   kitty
   alacritty
   flameshot
-  
   nano
   pavucontrol
   playerctl
