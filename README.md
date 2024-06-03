@@ -135,7 +135,7 @@ sudo nano /etc/apt/sources.list
 # ✨ to run or Use this script
 > clone this repo (latest commit only) by using git. Change directory, make executable and run the script
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Debian-Hyprland.git ~/Debian-Hyprland
+git clone --depth=1 https://github.com/lbrew000/DH.git ~/Debian-Hyprland
 cd ~/Debian-Hyprland
 chmod +x install.sh
 ./install.sh
