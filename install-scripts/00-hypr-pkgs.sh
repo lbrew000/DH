@@ -18,6 +18,9 @@ hypr_package=(
   gvfs-backends
   imagemagick
   kitty
+  alacritty
+  flameshot
+  
   nano
   pavucontrol
   playerctl
