@@ -4,7 +4,8 @@
 # UBUNTU USERS, FOLLOW README!
 
 nvidia_pkg=(
-  nvidia-driver
+  nvidia-tesla-470-driver
+  nvidia-tesla-470-kernal-dkms
   firmware-misc-nonfree
   nvidia-kernel-dkms
   linux-headers-$(uname -r)
@@ -12,6 +13,8 @@ nvidia_pkg=(
   libva-wayland2
   libnvidia-egl-wayland1
   nvidia-vaapi-driver
+  nvidia-suspend-common
+  libnvidia-eg1-gbm1
 )
 
 # for ubuntu-nvidia owners! just delete #
